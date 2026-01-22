@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Karthik  
+🎓 CS Student | 🤖 AIML & 🌐 Web Development  
 
-<!--
-**hydrakarthik/hydrakarthik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
+I started with curiosity, not clarity.  
+No shortcuts. No privileges. Just hunger. 🔥
 
-Here are some ideas to get you started:
+- 🤖 AIML beginner — building strong foundations  
+- 🌐 Web dev in progress (✅ HTML & CSS done)  
+- 🐍 Learning Python — one step, one script, one win  
+- 🎯 Focused on internship preparation, not excuses  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Why I Code
+I don’t code to show off.  
+I code to change my future.  
+
+Every repo here = effort.  
+Every commit = growth. 📈  
+
+## 🛠️ What I’m Working On
+- 🐍 Python fundamentals → real programs  
+- 🤖 AIML basics → understanding, not memorizing  
+- 🌐 Web projects → learning by building  
+
+## 🧰 Tools & Tech
+- 💻 Languages: Python (learning), HTML, CSS  
+- ⚙️ Tools: Git, GitHub, VS Code  
+
+## ⏳ 4-Month Mission
+- 🌐 Web dev strong enough to build solo  
+- 🤖 AIML at intermediate level  
+- 📂 A GitHub profile that proves consistency  
+
+## 🌙 The Long Game
+I’m not in a rush.  
+I’m in a grind. 🌑➡️☀️  
+
+Today a learner.  
+Tomorrow a builder.  
+One day, unstoppable. 🚀  
+
+## 📝 Reminder to Myself
+> 💭 Dream big  
+> 🔁 Stay consistent  
+> 💻 Let the code speak
