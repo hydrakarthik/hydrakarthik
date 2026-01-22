@@ -2,44 +2,32 @@
 🎓 CS Student | 🤖 AIML & 🌐 Web Development  
 
 ## 🧠 About Me
-I started with curiosity, not clarity.  
-No shortcuts. No privileges. Just hunger. 🔥
+I am a Computer Science student building my career through discipline, consistency, and hands-on learning.
 
-- 🤖 AIML beginner — building strong foundations  
-- 🌐 Web dev in progress (✅ HTML & CSS done)  
-- 🐍 Learning Python — one step, one script, one win  
-- 🎯 Focused on internship preparation, not excuses  
+- 🤖 AIML beginner focused on strong fundamentals  
+- 🌐 Web development learner (✅ HTML & CSS completed)  
+- 🐍 Currently learning Python with a project-first mindset  
+- 🎯 Preparing seriously for internship opportunities  
 
-## 💡 Why I Code
-I don’t code to show off.  
-I code to change my future.  
+## 🔧 What I’m Working On
+- 🐍 Writing clean Python code and understanding core concepts  
+- 🤖 Learning AIML step by step with practical applications  
+- 🌐 Building web projects to improve problem-solving skills  
 
-Every repo here = effort.  
-Every commit = growth. 📈  
-
-## 🛠️ What I’m Working On
-- 🐍 Python fundamentals → real programs  
-- 🤖 AIML basics → understanding, not memorizing  
-- 🌐 Web projects → learning by building  
-
-## 🧰 Tools & Tech
+## 🛠️ Skills & Tools
 - 💻 Languages: Python (learning), HTML, CSS  
 - ⚙️ Tools: Git, GitHub, VS Code  
 
-## ⏳ 4-Month Mission
-- 🌐 Web dev strong enough to build solo  
-- 🤖 AIML at intermediate level  
-- 📂 A GitHub profile that proves consistency  
+## ⏳ 4-Month Focus
+- 🌐 Independent web development capability  
+- 🤖 Intermediate-level AIML understanding  
+- 📊 Consistent, meaningful GitHub contributions  
 
-## 🌙 The Long Game
-I’m not in a rush.  
-I’m in a grind. 🌑➡️☀️  
+## 🧭 Mindset
+Progress is earned daily.  
+Small improvements compound into big outcomes. 📈  
 
-Today a learner.  
-Tomorrow a builder.  
-One day, unstoppable. 🚀  
-
-## 📝 Reminder to Myself
-> 💭 Dream big  
+## 📝 Note to Myself
 > 🔁 Stay consistent  
-> 💻 Let the code speak
+> 🧱 Build real things  
+> 💻 Let the work speak
