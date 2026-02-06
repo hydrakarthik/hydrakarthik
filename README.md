@@ -31,3 +31,25 @@ Small improvements compound into big outcomes. 📈
 > 🔁 Stay consistent  
 > 🧱 Build real things  
 > 💻 Let the work speak
+
+
+
+
+# 💫 About Me:
+👋 Hi, I'm Karthik<br>🎓 CS Student | 🤖 AIML & 🌐 Web Development<br><br>🧠 About Me<br>I am a Computer Science student building my career through discipline, consistency, and hands-on learning.<br><br>🤖 AIML beginner focused on strong fundamentals<br>🌐 Web development learner (✅ HTML & CSS completed)<br>🐍 Currently learning Python with a project-first mindset<br>🎯 Preparing seriously for internship opportunities<br>🔧 What I’m Working On<br>🐍 Writing clean Python code and understanding core concepts<br>🤖 Learning AIML step by step with practical applications<br>🌐 Building web projects to improve problem-solving skills<br>🛠️ Skills & Tools<br>💻 Languages: Python (learning), HTML, CSS<br>⚙️ Tools: Git, GitHub, VS Code<br>⏳ 4-Month Focus<br>🌐 Independent web development capability<br>🤖 Intermediate-level AIML understanding<br>📊 Consistent, meaningful GitHub contributions<br>🧭 Mindset<br>Progress is earned daily.<br>Small improvements compound into big outcomes. 📈<br><br>📝 Note to Myself<br>🔁 Stay consistent<br>🧱 Build real things<br>💻 Let the work speak
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahanandkarthik_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ karthik-mahanand) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@karthikmahanand) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikdevspace@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hydrakarthik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hydrakarthik&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrakarthik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hydrakarthik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=hydrakarthik&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
