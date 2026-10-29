@@ -13,7 +13,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" src="./assets/tothedeath.jpg" width="280" alt="Developer Illustration"/>
+
 
 **Karthik** here — a curious builder exploring **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
 
