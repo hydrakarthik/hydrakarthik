@@ -1,27 +1,132 @@
-# 💫 About Me:
-# 👨‍💻 About Me<br><br>Hi, I'm **Karthik** — a curious builder exploring **Artificial Intelligence, Machine Learning, and Full-Stack Development**.<br><br>I enjoy understanding how systems work and turning ideas into real products using code. My focus is on building practical projects, learning modern technologies, and developing strong problem-solving skills.<br><br> # 🔍 What I'm interested in<br><br>* Artificial Intelligence & Machine Learning<br>* Full-Stack Web Development<br>* Automation and productivity tools<br>* Data-driven systems<br><br>#  🛠️ Technologies I'm exploring<br><br>* Python<br>* JavaScript<br>* Next.js / React<br>* Node.js<br>* MongoDB<br><br>### 🚀 What I'm doing<br><br>* Building full-stack applications<br>* Learning AI/ML concepts and tools<br>* Deploying projects using modern cloud platforms<br><br>### 🎯 Current Goal<br><br>To build strong real-world skills in **AI/ML and Full-Stack Development**, create impactful projects, and grow into a developer who can design intelligent and scalable systems.<br>
+<!-- Optional banner: upload your own image to ./assets/ and uncomment
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%">
+</p>
+-->
 
+<h1 align="center">Hi 👋, I'm Karthik</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahanandkarthik_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-mahanand/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikdevspace@gmail.com) 
+<h3 align="center">AI/ML Enthusiast & Full-Stack Developer</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hydrakarthik&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hydrakarthik&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrakarthik&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Building+things+with+code;%3E+Exploring+AI+%26+Machine+Learning;%3E+Shipping+full-stack+projects;%3E+Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hydrakarthik&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  A curious builder turning ideas into real products with code.
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<h2 align="center">🚀 About Me</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hydrakarthik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Optional illustration: uncomment after adding your own image
+<img align="right" src="./assets/illustration.png" width="280" alt="Developer Illustration"/>
+-->
 
----
-[![](https://visitcount.itsvg.in/api?id=hydrakarthik&icon=9&color=5)](https://visitcount.itsvg.in)
+**Karthik** here — a curious builder exploring **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I enjoy understanding how systems work and turning ideas into real products. My focus is on building practical projects, learning modern technologies, and developing strong problem-solving skills.
+
+**🔍 What I'm interested in**
+
+- Artificial Intelligence & Machine Learning
+- Full-Stack Web Development
+- Automation and productivity tools
+- Data-driven systems
+
+**🛠️ Technologies I'm exploring**
+
+- Python
+- JavaScript
+- Next.js / React
+- Node.js
+- MongoDB
+
+**🚀 What I'm doing**
+
+- Building full-stack applications
+- Learning AI/ML concepts and tools
+- Deploying projects using modern cloud platforms
+
+**🎯 Current goal:** To build strong real-world skills in **AI/ML and Full-Stack Development**, create impactful projects, and grow into a developer who can design intelligent and scalable systems.
+
+<br clear="right"/>
+
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/hydrakarthik">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/karthik-mahanand/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/mahanandkarthik_">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:karthikdevspace@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,ts,python,react,nextjs,nodejs,tailwind,mongodb,mysql,postgres,supabase,firebase,docker,git,github,vercel,figma,notion,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hydrakarthik&theme=aura&hide_border=false&include_all_commits=true&count_private=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydrakarthik&theme=aura&hide_border=false&layout=compact" height="170" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=hydrakarthik&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+</div>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hydrakarthik&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hydrakarthik&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+</p>
+
+<h2 align="center">⌘ Commit Activity</h2>
+
+<!-- Needs the pacman GitHub Action in your hydrakarthik/hydrakarthik repo (see notes) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hydrakarthik/hydrakarthik/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hydrakarthik/hydrakarthik/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/hydrakarthik/hydrakarthik/output/pacman-contribution-graph-dark.svg">
+  </picture>
+</p>
+
+<h2 align="center">⌘ Philosophy</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=hydrakarthik&icon=9&color=5" alt="Visitor count" />
+</p>
