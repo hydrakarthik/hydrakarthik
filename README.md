@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="tothedeath.jpg" alt="Banner" width="280px">
-</p>
-
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 
 <h3 align="center">AI/ML Enthusiast & Full-Stack Developer</h3>
