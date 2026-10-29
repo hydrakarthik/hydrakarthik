@@ -1,8 +1,7 @@
-<!-- Optional banner: upload your own image to ./assets/ and uncomment
+Optional banner: upload your own image to ./assets/ and uncomment
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%">
+  <img src="tothedeath" alt="Banner" width="100%">
 </p>
--->
 
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 
